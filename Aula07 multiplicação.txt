@@ -1,0 +1,42 @@
+Q1 - Algoritmo que calcula a multiplicação de dois números inteiros.
+Passo a passo:
+(1) Entrada: dois números inteiros.
+(2) Saída: NADA.
+(3) Processamento: multiplicação dos dois números.
+
+Linguagem natural:
+
+1.Leia os dois números;
+2.O resultado será a multiplicação desses dois números;
+
+Q2 - Algoritmo que calcula a multiplicação e mostra o resultado.
+Passo a passo:
+(1) Entrada: dois números inteiros.
+(2) Saída: o resultado da multiplicação.
+(3) Processamento: multiplicação dos dois valores.
+
+Linguagem natural:
+
+1.Leia os dois números;
+2.Calcule o produto entre eles;
+3.Mostre o resultado da multiplicação.
+
+Q3 - Algoritmo que lê 'a' e 'b', calcula a multiplicação e mostra o resultado.
+Passo a passo:
+(1) Entrada: 'a' e 'b'.
+(2) Saída: resultado de 'a' × 'b'.
+(3) Processamento: multiplicação.
+
+Linguagem natural:
+
+1.Leia os valores de 'a' e 'b';
+2.O resultado será 'a' vezes 'b';
+3.Mostre o resultado.
+
+Refinamento:
+
+1.Leia [a];
+1.Leia [b];
+2.[resultado] = [a] * [b];
+3.Mostre [resultado].
+
