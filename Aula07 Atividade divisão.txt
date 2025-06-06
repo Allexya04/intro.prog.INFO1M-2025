@@ -1,0 +1,42 @@
+Q1 - Algoritmo que calcula a divisão de dois números inteiros.
+Passo a passo:
+(1) Entrada: dois números inteiros.
+(2) Saída: NADA.
+(3) Processamento: divisão do primeiro pelo segundo.
+
+Linguagem natural:
+
+1.Leia os dois números;
+2.O resultado será o primeiro número dividido pelo segundo;
+
+Q2 - Algoritmo que calcula a divisão e mostra o resultado.
+Passo a passo:
+(1) Entrada: dois números inteiros.
+(2) Saída: o resultado da divisão.
+(3) Processamento: divisão do primeiro número pelo segundo.
+
+Linguagem natural:
+
+1.Leia os dois números;
+2.Calcule a divisão do primeiro pelo segundo;
+3.Mostre o resultado.
+
+Q3 - Algoritmo que lê 'a' e 'b', calcula a divisão e mostra o resultado.
+Passo a passo:
+(1) Entrada: 'a' e 'b'.
+(2) Saída: resultado da divisão de 'a' por 'b'.
+(3) Processamento: divisão de 'a' por 'b'.
+
+Linguagem natural:
+
+1.Leia os valores de 'a' e 'b';
+2.O resultado será 'a' dividido por 'b';
+3.Mostre o resultado.
+
+Refinamento:
+
+1.Leia [a];
+1.Leia [b];
+2.[resultado] = [a] / [b];
+3.Mostre [resultado].
+
